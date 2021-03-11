@@ -10,4 +10,5 @@ flash device
 3. sudo ./flash.sh jetson-xavier-nx-devkit mmcblk0p1
 
 update cboot
+
   sudo ./flash.sh -k cpu-bootloader --image ./bootloader/cboot_t194.bin jetson-xavier-nx-devkit mmcblk0p1
