@@ -2,7 +2,7 @@
 https://docs.nvidia.com/jetson/l4t/index.html
 
 # nx jetpack
-https://drive.google.com/file/d/1bopRtmCN0bV1DCED6GykAYeGvgPZGdRG/view?usp=sharing
+https://drive.google.com/file/d/18WQeSY_xXYB7oN85-jGoUzHOPrkKYhVT/view?usp=sharing
 
 flash device
 1. sudo tar zxvf JetPack_4.4_Linux_JETSON_XAVIER_NX_DEVKIT_full.tar.gz
